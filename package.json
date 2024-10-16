@@ -1,5 +1,5 @@
 {
-	"name": "telegramify-markdown",
+	"name": "cb-markdownv2",
 	"version": "1.0.0",
 	"description": "Convert markdown into Telegram-specific markdown",
 	"main": "index.js",
@@ -41,7 +41,6 @@
 		"mdast-util-to-markdown": "^0.6.2",
 		"remark-gfm": "^1.0.0",
 		"remark-parse": "^9.0.0",
-		"remark-remove-comments": "^0.2.0",
 		"remark-stringify": "^9.0.1",
 		"unified": "^9.0.0",
 		"unist-util-remove": "^2.0.1",
