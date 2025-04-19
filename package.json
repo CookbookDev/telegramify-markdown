@@ -1,6 +1,6 @@
 {
   "name": "cb-markdownv2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert markdown into Telegram-specific markdown",
   "main": "index.js",
   "scripts": {
